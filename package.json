@@ -1,0 +1,24 @@
+{
+  "name": "erc20_poc",
+  "version": "1.0.0",
+  "description": "an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autocorrectoff/erc20_poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autocorrectoff/erc20_poc/issues"
+  },
+  "homepage": "https://github.com/autocorrectoff/erc20_poc#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  }
+}
